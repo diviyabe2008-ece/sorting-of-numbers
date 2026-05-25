@@ -110,22 +110,6 @@ END
 ---
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
-.
-
-
-.
-
-
-
-.
-
-
-.
-
-.
-
-
-.
 
 
 .
